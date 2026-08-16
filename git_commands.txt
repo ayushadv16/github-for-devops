@@ -8,3 +8,5 @@ git status
 git commit -m "added Git commands" 
 git remote add origin https://github.com/ayushadv16/g...
 git remote -v  
+
+This is some new changes
