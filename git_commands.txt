@@ -3,3 +3,8 @@ git status
 git add testing.py 
 git commit -m "added testing files"
 git restore testing.py    
+git add git_commands.txt                                
+git status                                              
+git commit -m "added Git commands" 
+git remote add origin https://github.com/ayushadv16/g...
+git remote -v  
